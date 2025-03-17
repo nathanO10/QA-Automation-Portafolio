@@ -2,23 +2,23 @@
 
 👋 Sobre Mí
 
-Hola, soy [Tu Nombre], QA Automation Engineer con experiencia en pruebas automatizadas para aplicaciones web, móviles y APIs. Me apasiona mejorar la calidad del software a través de la automatización de pruebas, garantizando eficiencia y confiabilidad en los procesos de desarrollo.
+Hola, soy Nathan Olivares, QA Automation Engineer con experiencia en pruebas automatizadas para aplicaciones web, móviles y APIs. Me apasiona mejorar la calidad del software a través de la automatización de pruebas, garantizando eficiencia y confiabilidad en los procesos de desarrollo.
 
 📌 Tecnologías y Herramientas
 
 Lenguaje de Programación: Java
 
-Web Testing: Selenium WebDriver, TestNG, Cucumber
+Web Testing: Selenium WebDriver, Cucumber
 
 Mobile Testing: Appium
 
-API Testing: RestAssured, Postman
+API Testing: RestAssured, KARATE, Postman
 
-Frameworks: Screenplay, JUnit, TestNG
+Frameworks: Screenplay
 
 CI/CD: GitHub Actions, Jenkins
 
-Otras Herramientas: Docker, Git, Maven
+Otras Herramientas: Git, Maven
 
 📂 Proyectos Destacados
 
@@ -26,11 +26,9 @@ Otras Herramientas: Docker, Git, Maven
 
 🔗 Repositorio
 
-📌 Pruebas automatizadas para una aplicación web usando Selenium WebDriver y TestNG.
+📌 Pruebas automatizadas para una aplicación web usando Selenium WebDriver.
 
 ✅ Implementación de Page Object Model (POM) para mejor mantenimiento.
-
-📊 Generación de reportes con Allure Report.
 
 2️⃣ Automatización Móvil con Appium
 
@@ -40,13 +38,11 @@ Otras Herramientas: Docker, Git, Maven
 
 ✅ Configuración de emuladores y pruebas en dispositivos reales.
 
-📊 Reportes de ejecución con Extent Reports.
-
-3️⃣ Pruebas de API con RestAssured
+3️⃣ Pruebas de API con KARATE
 
 🔗 Repositorio
 
-📌 Validaciones de endpoints REST con RestAssured.
+📌 Validaciones de endpoints REST con KARATE.
 
 ✅ Uso de JSON Schema Validation.
 
